@@ -1,0 +1,13 @@
+#qrcode {
+  width:160px;
+  height:160px;
+  margin-top:15px;
+  margin:auto;
+}
+#text {
+  display: block;
+  width: 80%;
+}
+h4{
+	min-height: 34px;
+}	
